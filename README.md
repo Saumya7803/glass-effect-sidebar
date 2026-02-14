@@ -12,7 +12,7 @@ A beautiful and modern glass effect sidebar with a stunning glassmorphism design
 
 ## 🚀 Demo
 
-View the live demo on [Vercel](your-deployment-url)
+View the live demo on [Vercel](https://glass-effect-sidebar.vercel.app)
 
 ## 🛠️ Technologies Used
 
@@ -26,14 +26,14 @@ View the live demo on [Vercel](your-deployment-url)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/glass-effect-sidebar.git
+git clone https://github.com/Saumya7803/glass-effect-sidebar.git
 ```
 
 2. Open `index.html` in your browser or deploy to your preferred hosting platform.
 
 ## 🌐 Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/glass-effect-sidebar)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Saumya7803/glass-effect-sidebar)
 
 ## 📝 Usage
 
